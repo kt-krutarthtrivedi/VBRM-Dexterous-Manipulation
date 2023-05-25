@@ -1,4 +1,4 @@
-# VBRM-Dexterous-Manipulation
+# Vision Based Robotic Manipulation : Dexterous In-hand Manipulation
 
 The aim is to perform dexterous in-hand manipulation using a parallel-jaw gripper.
 
@@ -9,4 +9,6 @@ The goal is to get the object to the target location with the same orientation t
 
 ![problem](https://github.com/kt-krutarthtrivedi/VBRM-Dexterous-Manipulation/blob/main/media/Gripper%20Geometry.png)
 
+## Results:
 
+Please find the mathematical explanation and results in the [Report.](https://github.com/kt-krutarthtrivedi/VBRM-Dexterous-Manipulation/blob/main/media/Report.pdf)
